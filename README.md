@@ -1,4 +1,4 @@
-# cryptoanyalser
+# cryptoanalyser
 Crypto Tracker is a responsive web application that allows users to view information about different cryptocurrencies, including their current prices, news articles, and historical charts. The application is built using React and utilizes the Coinranking API and Bing News API to retrieve data. It is designed to be user-friendly and easy to navigate.
 
 ## Technologies Used
